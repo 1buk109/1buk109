@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## Experience
 - **Ex-Intern**
-　- [rooter](https://rooter.jp/) as Software Engineer.
+  - [rooter](https://rooter.jp/) as Software Engineer.
   - [PKSHA Technology](https://www.pkshatech.com/) as Algorithm Engineer.
   - [PIVOT](https://pivot.inc/) as Data Scientist / Data Engineer / Infra Engineer.
 
