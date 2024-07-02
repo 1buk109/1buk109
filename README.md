@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 ## Hi there 👋
-- 🎓 I'm a recent graduate student with a degree in bioinformatics
+- 🎓 I'm a recent graduate student with a degree in bioinformatics.
 - 🧑‍💻 I'm an aspiring full-stack engineer with a strong focus on machine learning and data science.
 <br>
 
@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 
 ## Experience
 - **Ex-Intern**
-  - [PKSHA Technology](https://www.pkshatech.com/) as Algorithm Engineer
-  - [PIVOT](https://pivot.inc/) as Data Scientist / Data Engineer / Infra Engineer
+　- [rooter](https://rooter.jp/) as Software Engineer.
+  - [PKSHA Technology](https://www.pkshatech.com/) as Algorithm Engineer.
+  - [PIVOT](https://pivot.inc/) as Data Scientist / Data Engineer / Infra Engineer.
 
 
 ## 🌱 Skills
