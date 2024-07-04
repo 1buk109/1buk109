@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="github-readme-stats-gold-mu.vercel.app/api?username=1buk109&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="github-readme-stats-gold-mu.vercel.app/api/top-langs/?username=1buk109&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats-gold-mu.vercel.app/api?username=1buk109&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats-gold-mu.vercel.app/api/top-langs/?username=1buk109&theme=vue-dark&layout=compact" />
 </div>
