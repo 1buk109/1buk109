@@ -25,13 +25,6 @@ Here are some ideas to get you started:
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 
-## Experience
-- **Ex-Intern**
-  - [rooter](https://rooter.jp/) as Software Engineer.
-  - [PKSHA Technology](https://www.pkshatech.com/) as Algorithm Engineer.
-  - [PIVOT](https://pivot.inc/) as Data Scientist / Data Engineer / Infra Engineer.
-
-
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,pytorch,fastapi,react,next,ts,mysql,docker,terraform,gcp,git,linux,notion" />
 <br>
